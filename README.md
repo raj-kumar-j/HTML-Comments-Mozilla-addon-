@@ -3,4 +3,4 @@ This Mozilla Add-on is a tool that can be used during Web application security t
 
 Currently it will only identify HTML comments. Anyone who wants to add more functionality or improve it, you are welcome to do it.
 
-NOTE : I'm a pentester and not a developer.
+NOTE : I'm a pentester who is also trying to develop things on my own.
